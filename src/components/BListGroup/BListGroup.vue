@@ -1,5 +1,6 @@
 <template>
   <component :is="computedTag" class="list-group" :class="classes">
+    gosh,,,
     <slot />
   </component>
 </template>
